@@ -1,20 +1,18 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo16760
-Fork on GitHub4729
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 # 💫 About Me:
--👋 Hi, I’m Rajesh kashyap<br>- 👀 align="center"Passionate to learn new Technology, Good Programmer, Web Developer, Goal is to give quality of Code.
-<br>- 🌱 I’m currently learning React.js
+-👋 <h3>Hi, I’m Rajesh kashyap</h3>
+<br>- 👀<h3 align="center">Passionate to learn new Technology, Good Programmer, Web Developer</h3>
+<br>- 🌱 I’m currently learning React.js and farme wors.
 
 <br>
 <img alt="Coder GIF" height=200 src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" />
 <br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh87258&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh87258" /> </p>
 
 - 🔭 I’m currently Seaching for job **Web Development, Software Development, C++ and Java Programer**
 
-- 🌱 I’m currently learning **React and frame works**
 
 - 👨‍💻 All of my projects are available at [github:- rajesh87258](github:- rajesh87258)
 
@@ -49,9 +47,8 @@ Your kind support keeps open-source tools like this free for others.
 tweet github profile readme generator
 Let the world know how you feel using this tool. Share with others on twitter.
 Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
+Buy ko-fi for rajeshkashyapBuy me a ko-fi
+A CoffeeBuy me a coffee
 github profile markdown generator logo
 GitHub Profile README Generator
 Pages
@@ -67,4 +64,3 @@ Join Community
 Discord of the community
 Developed in India 🇮🇳
 Buy Me A Coffee
-
