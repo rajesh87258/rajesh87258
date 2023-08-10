@@ -3,7 +3,7 @@ GitHub Profile README Generator
 Star this repo16760
 Fork on GitHub4729
 # 💫 About Me:
--👋 Hi, I’m Rajesh kashyap<br>- 👀<h3 align="center">Passionate to learn new Technology, Good Programmer, Web Developer, Goal is to give quality of Code.</h3>
+-👋 Hi, I’m Rajesh kashyap<br>- 👀 align="center"Passionate to learn new Technology, Good Programmer, Web Developer, Goal is to give quality of Code.
 <br>- 🌱 I’m currently learning React.js
 
 <br>
