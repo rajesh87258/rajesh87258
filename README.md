@@ -35,7 +35,7 @@
 <p><a href="https://www.buymeacoffee.com/rajeshkashyap"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajeshkashyap" /></a><a href="https://ko-fi.com/@_its_rajesh_kashyap"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="@_its_rajesh_kashyap" /></a></p><br><br>
  <div>
     <!-- Top Languages -->
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh87258&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh87258&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=rajesh87258&show_icons=true&locale=en" alt="GitHub Stats" />
     
