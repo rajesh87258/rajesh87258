@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 # 💫 About Me:
 - 👋 **Hi, I’m Rajesh Kashyap**
-- 👀 **Passionate about learning new technologies, proficient in programming, and web development**
+- 👀 **Passionate about learning new technologies**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh87258&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh87258" /> </p>
 
