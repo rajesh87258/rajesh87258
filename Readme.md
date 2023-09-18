@@ -18,7 +18,7 @@
 
 - 📫 Contact me at: [rajeshkashyapapril@gmail.com](mailto:rajeshkashyapapril@gmail.com)
 
-- 📄 Explore my experiences: [View Resume](https://drive.google.com/file/d/1ONJs5VrxkA-MWLYSY9ShpS7cdC0XxjlL/view?usp=sharing)
+- 📄 Explore my experiences: [View Resume](https://drive.google.com/file/d/11hzvm4DMFn7_jpNCTR3dN9wUzcUNgiQP/view?usp=sharing)
 
 - ⚡ Fun fact: **If you can read this, thank a software developer.**
 
