@@ -2,7 +2,7 @@
 # 💫 About Me:
 - 👋 **Hi, I’m Rajesh Kashyap**
 - 👀 **Passionate about learning new technologies**
-- 🌱 **I’m currently learning React.js and farme wors.**
+- 🌱 **I’m currently learning React.js and their frame works.**
 
 
 
